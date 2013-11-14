@@ -1,6 +1,6 @@
 {
   "name": "cli-debugger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "command-line debugger for node.js",
   "main": "index.js",
   "scripts": {
