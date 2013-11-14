@@ -24,5 +24,6 @@ Original debugger code taken from node.js source. Original debugger authors - [F
   - [node-inspector](https://github.com/node-inspector/node-inspector)
   - [webkit-agent](https://github.com/c4milo/node-webkit-agent)
   - [node-vim-debugger](https://github.com/sidorares/node-vim-debugger)
+  - [ndb](https://github.com/smtlaissezfaire/ndb)
   - [node-profiler](https://github.com/bnoordhuis/node-profiler)
   - [v8.log processor](https://github.com/sidorares/node-tick)
