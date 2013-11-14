@@ -1,6 +1,6 @@
 {
   "name": "cli-debugger",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "command-line debugger for node.js",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,12 @@
     "debugger",
     "cli"
   ],
+  "bin": {
+    "node-debug": "./bin/cli-debugger.js"
+  }
   "author": "Andrey Sidorov <sidorares@yandex.com>",
   "license": "MIT",
   "dependencies": {
-    "v8-debugger": "0.0.1"
+    "v8-debugger": "0.0.3"
   }
 }
