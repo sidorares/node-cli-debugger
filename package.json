@@ -16,7 +16,7 @@
   ],
   "bin": {
     "node-debug": "./bin/cli-debugger.js"
-  }
+  },
   "author": "Andrey Sidorov <sidorares@yandex.com>",
   "license": "MIT",
   "dependencies": {
