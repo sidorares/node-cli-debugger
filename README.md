@@ -27,3 +27,7 @@ Original debugger code taken from node.js source. Original debugger authors - [F
   - [ndb](https://github.com/smtlaissezfaire/ndb)
   - [node-profiler](https://github.com/bnoordhuis/node-profiler)
   - [v8.log processor](https://github.com/sidorares/node-tick)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sidorares/node-cli-debugger/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
