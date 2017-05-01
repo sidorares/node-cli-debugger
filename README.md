@@ -1,6 +1,8 @@
 node-cli-debugger
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/node-cli-debugger.svg)](https://greenkeeper.io/)
+
 node.js command-line debugger
 
 WIP. See discussion [here](https://groups.google.com/forum/#!topic/nodejs/aari58_A6Y8) and [this pull request](https://github.com/joyent/node/pull/6507)
