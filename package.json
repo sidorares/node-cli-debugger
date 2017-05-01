@@ -20,6 +20,6 @@
   "author": "Andrey Sidorov <sidorares@yandex.com>",
   "license": "MIT",
   "dependencies": {
-    "v8-debugger": "0.0.3"
+    "v8-debugger": "1.0.0"
   }
 }
